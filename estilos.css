@@ -16,6 +16,7 @@ h3 {
 li{
     color: white;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   line-height: 20pt;
 }
 body { background-color: #005883; }
 
@@ -23,6 +24,7 @@ body { background-color: #005883; }
 p{
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 20pt;
 }
 
 
